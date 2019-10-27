@@ -1,0 +1,2 @@
+module AIHomework4 {
+}
